@@ -1,4 +1,3 @@
-### Olá, Eu sou o Rodrigo Rech 👋
 <div style="display: inline_bloc"><br/>
   <img align="center" alt="html5"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="html5"src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -7,6 +6,8 @@
   <img align="center" alt="html5"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="html5"src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
+
+### Olá, Eu sou o Rodrigo Rech 👋
 
 Desenvolvedor de Software com experiência em projetos de grande porte. Possuo bacharelado em Ciência da Computação pela Universidade Federal da Fronteira Sul.
 
