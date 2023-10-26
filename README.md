@@ -11,4 +11,4 @@
 
 Desenvolvedor de Software com experiência em projetos de grande porte. Possuo bacharelado em Ciência da Computação pela Universidade Federal da Fronteira Sul.
 
-Sou apaixonado pelo desenvolvimento de Back-End e estou constantemente aprimorando minhas habilidades para me tornar um especialista na criação e manutenção de REST APIs 😃 ☕
+Sou apaixonado pelo desenvolvimento de Back-End e estou constantemente aprimorando minhas habilidades para me tornar um especialista no desenvolvimento de REST APIs 😃 ☕
